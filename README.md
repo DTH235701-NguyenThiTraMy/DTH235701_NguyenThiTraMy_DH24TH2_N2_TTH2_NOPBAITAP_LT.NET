@@ -40,6 +40,12 @@ Mỗi thư mục tương ứng với một buổi thực hành.
 
 ---
 
+### 🔹 Buổi 3: Các Control cơ bản
+## 📌 Nội dung
+Trong buổi học này, chúng ta thực hành lập trình Windows Forms với **C# .NET**:
+Gồm 9 bài tập
+
+---
 
 *(sẽ cập nhật thêm khi có buổi mới)*
 
