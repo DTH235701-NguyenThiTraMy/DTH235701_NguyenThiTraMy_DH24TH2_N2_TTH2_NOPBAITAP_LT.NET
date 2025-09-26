@@ -47,6 +47,13 @@ Gồm 9 bài tập
 
 ---
 
+### 🔹 Buổi 4: Phần mảng
+## 📌 Nội dung
+Trong buổi học này, chúng ta thực hành lập trình Windows Forms với **C# .NET**:
+Gồm 3 bài tập
+
+---
+
 *(sẽ cập nhật thêm khi có buổi mới)*
 
 ---
