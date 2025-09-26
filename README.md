@@ -65,7 +65,7 @@ Gồm 3 bài tập
 ## 🚀 Cách chạy
 1. Clone repo về máy:
    ```bash
-   git clone https://github.com/DTH235701-NguyenThiTraMy/DTH235701-TraMy-nopbai.NET.git
+   git clone https://github.com/DTH235701-NguyenThiTraMy/DTH235701_NguyenThiTraMy_DH24TH2_N2_TTH2_NOPBAITAP_LT.NET.git
 2. Mở file .sln trong Visual Studio
 3. Nhấn Ctrl + F5 để chạy project
 
