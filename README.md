@@ -52,6 +52,12 @@ Gồm 3 bài tập
 
 ---
 
+### 🔹 Buổi 5: Windows Forms
+- Trong buổi học này, chúng ta thực hành lập trình Windows Forms với **C# .NET**:
+- Gồm 7 bài tập
+
+---
+
 *(sẽ cập nhật thêm khi có buổi mới)*
 
 ---
