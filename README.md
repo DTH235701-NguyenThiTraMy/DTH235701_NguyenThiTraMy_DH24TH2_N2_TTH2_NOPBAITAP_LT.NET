@@ -63,7 +63,9 @@ Gồm 3 bài tập
 ---
 
 ## ⚙️ Yêu cầu
-- Visual Studio 2022 trở lên  
+- Visual Studio 2022 trở lên
+- C# WinForms
+- .NET Framework 4.8  
 - .NET 6.0 hoặc mới hơn  
 
 ---
