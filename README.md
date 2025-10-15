@@ -52,12 +52,20 @@ Gồm 3 bài tập
 
 ---
 
+### 🔹 Buổi 5: Windows Forms
+- Trong buổi học này, chúng ta thực hành lập trình Windows Forms với **C# .NET**:
+- Gồm 7 bài tập
+
+---
+
 *(sẽ cập nhật thêm khi có buổi mới)*
 
 ---
 
 ## ⚙️ Yêu cầu
-- Visual Studio 2022 trở lên  
+- Visual Studio 2022 trở lên
+- C# WinForms
+- .NET Framework 4.8  
 - .NET 6.0 hoặc mới hơn  
 
 ---
