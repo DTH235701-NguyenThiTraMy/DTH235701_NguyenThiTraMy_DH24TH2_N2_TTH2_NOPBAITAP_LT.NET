@@ -58,6 +58,30 @@ Gồm 3 bài tập
 
 ---
 
+### 🔹 Buổi 6: Windows Forms
+- Trong buổi học này, chúng ta thực hành lập trình Windows Forms với **C# .NET**:
+- Gồm 4 bài tập
+
+---
+
+### 🔹 Buổi 7: Windows Forms
+- Trong buổi học này, chúng ta thực hành lập trình Windows Forms với **C# .NET**:
+- Gồm 5 bài tập
+
+---
+
+### 🔹 Buổi 8: Windows Forms
+- Trong buổi học này, chúng ta thực hành lập trình Windows Forms với **C# .NET**:
+- chương trình có 4 form: Form 1: Form chính; Form 2: Diện Tích - Chu Vi Hình Vuông; Form 3: Diện Tích - Chu Vi Hình Chữ Nhật; Form 4: Diện Tích - Chu Vi Hình Tròn.
+
+---
+
+### 🔹 Buổi 9: Windows Forms
+- Trong buổi học này, chúng ta thực hành lập trình Windows Forms với **C# .NET**:
+- Chương trình gồm có 3 form: Form1: Form chính, Form2: Kiểm tra số hoàn hảo, Form3: Tạo mảng.
+
+---
+
 *(sẽ cập nhật thêm khi có buổi mới)*
 
 ---
