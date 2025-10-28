@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{05C4864E-5920-4BDB-9E61-526580E11EDD}</ProjectGuid>
+    <ProjectGuid>{9EE99F68-0F34-4F94-AF97-4D4AEBB3EF84}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Buoi10_QLNV</RootNamespace>
-    <AssemblyName>Buoi10_QLNV</AssemblyName>
+    <RootNamespace>Buoi11_QLHS</RootNamespace>
+    <AssemblyName>Buoi11_QLHS</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

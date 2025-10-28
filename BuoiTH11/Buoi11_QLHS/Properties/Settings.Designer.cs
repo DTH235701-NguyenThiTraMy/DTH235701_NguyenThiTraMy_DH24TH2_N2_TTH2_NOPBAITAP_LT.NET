@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Buoi10_QLNV.Properties
+namespace Buoi11_QLHS.Properties
 {
 
 

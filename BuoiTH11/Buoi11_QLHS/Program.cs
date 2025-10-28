@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Buoi10_QLNV
+namespace Buoi11_QLHS
 {
     internal static class Program
     {
